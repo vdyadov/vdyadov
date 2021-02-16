@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vdyadov
+- 👀 I’m interested in programming and develop application for operation system
+- 🌱 I’m currently learning Qt for C++ and Java mobile
+- 💞️ I’m looking to collaborate on with the same ambitious people like me
+- 📫 How to reach me? Write me on my post: vdyadov@yandex.ru
